@@ -186,6 +186,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
     com.android.hotwordenrollment.common.util \
-    fpc_ident \
     android.hardware.biometrics.fingerprint@2.1-goodixservice \
-    android.hardware.biometrics.fingerprint@2.1-service-fpc
+    android.hardware.biometrics.fingerprint@2.1-service-fpc \
+    fpc_ident
