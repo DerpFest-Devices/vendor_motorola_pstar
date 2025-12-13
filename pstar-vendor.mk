@@ -182,7 +182,7 @@ PRODUCT_PACKAGES += \
     libvidhance_stabilizer \
     vendor.goodix.hardware.biometrics.fingerprint@3.0 \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
-    libdsp_streamer_qvrcam_receiver \
+    vendor_lib_rfsa_adsp_libdsp_streamer_qvrcam_receiver_so \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
     com.android.hotwordenrollment.common.util \
